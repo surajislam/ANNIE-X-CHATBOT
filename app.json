@@ -1,7 +1,7 @@
 {
   "name": "ANNIE",
   "description": "A telegram CHAT bot",
-  "logo": "https://telegra.ph/file/2c6d1a6f78eba6199933a.jpg",
+  "logo": "https://telegra.ph/file/902136063ff9b74bf761c.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -16,7 +16,7 @@
       "url": "heroku/python"
     }
   ],
-  "repository": "https://github.com/doraemon890/ANNIE-X-CHATBOT",
+  "repository": "https://github.com/surajislam/ANNIE-X-CHATBOT",
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID",
